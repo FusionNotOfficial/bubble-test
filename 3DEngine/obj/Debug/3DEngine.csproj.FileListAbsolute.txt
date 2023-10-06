@@ -1,0 +1,7 @@
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\bin\Debug\3DEngine.exe.config
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\bin\Debug\3DEngine.exe
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\bin\Debug\3DEngine.pdb
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\obj\Debug\3DEngine.csproj.AssemblyReference.cache
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\obj\Debug\3DEngine.csproj.CoreCompileInputs.cache
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\obj\Debug\3DEngine.exe
+F:\Visual Studio\TestProjects\3DEngine\3DEngine\obj\Debug\3DEngine.pdb
